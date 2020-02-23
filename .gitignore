@@ -1,9 +1,6 @@
 .idea
 *.iml
-out
-gen
-ManagementSystem-dao/target
-ManagementSystem-service/target
-ManagementSystem-domain/target
-ManagementSystem-web/target
-.idea/ManagementSystem.iml
+/ManagementSystem-dao/target
+/ManagementSystem-service/target
+/ManagementSystem-domain/target
+/ManagementSystem-web/target
